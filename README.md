@@ -29,7 +29,7 @@ I'm a passionate self-taught who aspires to be a full on full-stack web develope
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/bryanhad" align="left"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanhad&layout=compact"/></a>
+<a href="https://github.com/bryanhad" align="left"><img align="left" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanhad&layout=compact"/></a>
 <a href="http://www.github.com/bryanhad"><img width="53%" src="https://github-readme-streak-stats.herokuapp.com/?user=bryanhad&stroke=3382ed&background=ffffff&ring=6366f1&fire=6366f1&currStreakNum=3382ed&currStreakLabel=6366f1&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 
 ### Socials
