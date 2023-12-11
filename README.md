@@ -8,7 +8,7 @@ I'm a passionate self-taught who aspires to be a full on full-stack web develope
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [bryanhadinata76@gmail.com](mailto:bryanhadinata76@gmail.com)
-* 🚀  I'm currently working on [ASP Admin CMS NextJS](http://github.com/bryanhad/asp-lawfirm-admin-next)
+* 🚀  I'm currently working on [ASP Admin CMS NextJS](https://github.com/bryanhad/asp-admin)
 * 🧠  I'm learning Next.js and Go
 * ⚡  It doesn't work... why? It works... why?
 
